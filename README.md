@@ -1,6 +1,6 @@
  ☕ The Coffee Cup - Website Quán Cà Phê
 
-Đây là một dự án website giao diện mẫu (Landing Page) dành cho quán cà phê **The Cozy Cup**. Dự án được xây dựng nhằm mục đích tối ưu hóa trải nghiệm người dùng trên cả máy tính và điện thoại, tích hợp các tính năng tương tác cơ bản bằng JavaScript.
+Đây là một dự án website giao diện mẫu (Landing Page) dành cho quán cà phê **The Coffee Cup**. Dự án được xây dựng nhằm mục đích tối ưu hóa trải nghiệm người dùng trên cả máy tính và điện thoại, tích hợp các tính năng tương tác cơ bản bằng JavaScript.
 
 ---
 
