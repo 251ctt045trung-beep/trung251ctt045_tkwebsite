@@ -1,1 +1,6 @@
-https://251ctt045trung-beep.github.io/trung251ctt045_tkwebsite/
+-Công cụ Al đã sử dụng : chat gpt -Các prompt chính đã sử dụng :
+
+Những phần tự thực hiện :
+Những phần tham khảo AI :
+Khó khăn gặp phải :
+Link live web (github pages) : 
